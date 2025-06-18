@@ -1,0 +1,20 @@
+POST /api/signup
+/api/login
+
+Get 
+/api/profile
+
+Get
+/api/pending-patner
+Patch
+/api/partner/:id/status
+
+Get
+/api/admin/stats
+
+Post 
+/api/inquiries
+Get
+/api/inquiries/partner
+Patch
+api/inquiries/:id/status
